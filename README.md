@@ -1,4 +1,4 @@
-# Ubiqitas Information System lab.
+# Ubiquitous Information System lab.
 # ユビキタス情報システム研究室
 
 # Research
