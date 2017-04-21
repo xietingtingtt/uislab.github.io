@@ -35,5 +35,7 @@
 * http://chenlab.xyz
 * http://daiichi-koudai.com
 
-----
+# Repository
 * http://uislab.github.io
+* http://ubiclub.github.io
+* http://edu2web.github.io
