@@ -10,7 +10,7 @@
 
 実空間と仮想空間と融合、さりげなく利用者を支え
 
-# Member
+# Members
 ## 2018
 
 ## 2017
@@ -35,7 +35,7 @@
 * http://chenlab.xyz
 * http://daiichi-koudai.com
 
-# Repository
+# Related repository
 * http://uislab.github.io
 * http://ubiclub.github.io
 * http://edu2web.github.io
