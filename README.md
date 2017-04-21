@@ -11,7 +11,7 @@
 実空間と仮想空間と融合、さりげなく利用者を支え
 
 # Supervisor
-* [Hong Chen](https://github.com/chen420)
+* [Hong Chen](https://chen420.github.io/)
 
 # Members
 ## 2018
