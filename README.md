@@ -17,21 +17,21 @@
 ## 2018
 
 ## 2017
-* 于照涵
-* 文挙
-* 谢婷婷
-* 郑家元
-* 陈华清
-* 张佳益
+* [于照涵](https://github.com/14te406)
+* [文挙]()
+* [谢婷婷]()
+* [郑家元](https://github.com/zhengjiayuan0701)
+* [陈华清]()
+* [张佳益]()
 
 ## 2016
-* 孫成陽
-* 陳偉清
-* 陳清
-* 李潇翔
-* 于洋
-* 徐磊
-* 闫磊
+* [孫成陽](https://sunshine4116.wordpress.com)
+* [陳偉清](https://hello1576.wordpress.com)
+* [陳清](https://mylifestyle945.wordpress.com)
+* [李潇翔](https://gluttonysite.wordpress.com)
+* [于洋]()
+* [徐磊](https://leessangweb.wordpress.com)
+* [闫磊](https://leisai.wordpress.com)
 
 # Web sites
 * http://chenlab.net
