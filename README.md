@@ -28,14 +28,20 @@
 # Supervisor
 * [Hong Chen](https://chen420.github.io/)
 
-# [Members](./Members.md)
+# Members
+* [Members](./Members.md)
+
+# Knowledge base
+* [Lubuntu](./lubuntu.md)
+* [App inventor](./ai2)
+* [WordPress](./wp.md)
 
 # Web sites
 * http://chenlab.net
-* http://chenlab.xyz
 * http://daiichi-koudai.com
 
 # Related Pages
-* http://uislab.github.io
-* http://ubiclub.github.io
-* http://edu2web.github.io
+* https://uislab.github.io
+* https://ubiclub.github.io
+* https://edu2web.github.io
+* https://gitbook.com
