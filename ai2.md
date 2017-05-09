@@ -13,3 +13,11 @@ MIT App Inventor を利用して、スマートフォンアプリ開発
 
 ## Start Programming
 * http://ai2.appinventor.mit.edu/
+
+## Quirky Linux 7.1
+a USB boot linux with AppInventor inside
+
+Refer
+* http://distro.ibiblio.org/quirky/quirky6/x86/releases/appril-7.1/
+* http://distro.ibiblio.org/quirky/quirky6/x86/releases/appril-7.1/appril-7.1-README.htm
+* http://eh.cocolog-nifty.com/zakki/2016/07/sshpuppy-linux-.html
