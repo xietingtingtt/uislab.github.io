@@ -1,16 +1,16 @@
 # Members
 
 ## 2018
-* [yuwandi](https://github.com/yuwandi) 
-* [yuwandi](https://github.com/yuwandi)
+* [yuwandi](https://ywd0511.wordpress.com/), [github](https://github.com/yuwandi) 
+* [yuwandi](https://github.com/yuwandi) [github](https://github.com/yuwandi)
 
 ## 2017
-* [于照涵](https://14te406.github.io), (https://14te406wordpress.wordpress.com)
-* [文挙](https://itis360664951.github.io),  (https://itis360664951.wordpress.com)
-* [谢婷婷](https://xietingtingtt.github.io),  (https://tingting545.wordpress.com)
-* [郑家元](https://zhengjiayuan0701.github.io),  (https://zhengjiayuanblog.wordpress.com)
-* [陈华清](https://Amaiye.github.io), (https://Amaiye.wordpress.com)
-* [张佳益](https://675654669.github.io), (https://tyoukaeki.wordpress.com)
+* [于照涵](https://14te406wordpress.wordpress.com), [github](https://14te406.github.io)
+* [文挙](https://itis360664951.wordpress.com), [github](https://itis360664951.github.io)
+* [谢婷婷](https://tingting545.wordpress.com), [github](https://xietingtingtt.github.io)
+* [郑家元](https://zhengjiayuanblog.wordpress.com), [github](https://zhengjiayuan0701.github.io)
+* [陈华清](https://Amaiye.wordpress.com), [github](https://Amaiye.github.io), 
+* [张佳益](https://tyoukaeki.wordpress.com), [github](https://675654669.github.io), 
 
 ## 2016
 * [孫成陽](https://sunshine4116.wordpress.com)
