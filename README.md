@@ -33,7 +33,7 @@
 
 # Knowledge base
 * [Lubuntu](./lubuntu.md)
-* [App inventor](./ai2)
+* [App inventor](./ai2.md)
 * [WordPress](./wp.md)
 
 # Web sites
