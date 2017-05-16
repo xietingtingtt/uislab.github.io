@@ -1,8 +1,7 @@
 # Members
 
 ## 2018
-* [yuwandi](https://ywd0511.wordpress.com/), [github](https://github.com/yuwandi) 
-* [yuwandi](https://github.com/yuwandi) [github](https://github.com/yuwandi)
+* [于宛荻](https://ywd0511.wordpress.com/), [github](https://github.com/yuwandi) 
 
 ## 2017
 * [于照涵](https://14te406wordpress.wordpress.com), [github](https://14te406.github.io)
