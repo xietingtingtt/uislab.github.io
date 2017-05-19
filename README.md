@@ -13,17 +13,17 @@
 # Projects
 
 ## App and Cloud
-1. Classroom attendance App and Cloud
-1. Bookshelf App and Cloud
-1. Traveler App and Cloud
+1. [Classroom attendance App and Cloud](./SmartClassroom)
+1. [Bookshelf App and Cloud](./SmartCloud/SmardLibrary)
+1. [Traveler App and Cloud](./SmartTravel)
 
 ## IoT and Cloud
-1. Smart Classroom
-1. EKG App and Cloud
+1. [Ubiquitous Home](./SmartHome)
+1. [EKG App and Cloud](./SmartHelth)
 
 ## Information System
-1. Classroom account and file share
-1. Google Classroom API Application
+1. [Classroom account and file share](./SmartCloud)
+1. [Google Classroom API Application](./SmartLearning)
 
 # Supervisor
 * [Hong Chen](https://chen420.github.io/)
