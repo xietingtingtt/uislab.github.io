@@ -40,11 +40,11 @@
 * [Processing](./Processing.md)
 
 # Web sites
-* http://chenlab.net
-* http://daiichi-koudai.com
+* [http://chenlab.net](http://chenlab.net)
+* [http://daiichi-koudai.com](http://daiichi-koudai.com)
 
 # Related Pages
-* https://uislab.github.io
-* https://ubiclub.github.io
-* https://edu2web.github.io
-* https://gitbook.com
+* [https://uislab.github.io](https://uislab.github.io)
+* [https://ubiclub.github.io](https://ubiclub.github.io)
+* [https://edu2web.github.io](https://edu2web.github.io)
+* [https://gitbook.com](https://gitbook.com)
