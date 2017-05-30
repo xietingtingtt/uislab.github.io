@@ -16,7 +16,7 @@
 
 ## App and Cloud
 1. [Classroom attendance App and Cloud](./SmartClassroom)
-1. [Bookshelf App and Cloud](./SmardLibrary)
+1. [Bookshelf App and Cloud](./SmartLibrary)
 1. [Traveler App and Cloud](./SmartTravel)
 
 ## IoT and Cloud
