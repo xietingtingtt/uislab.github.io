@@ -21,7 +21,7 @@
 
 ## IoT and Cloud
 1. [Ubiquitous Home](./SmartHome)
-1. [EKG App and Cloud](./SmartHelth)
+1. [EKG App and Cloud](./SmartHealth)
 
 ## Information System
 1. [Classroom account and file share](./SmartCloud)
