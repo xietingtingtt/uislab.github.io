@@ -1,6 +1,8 @@
 # Ubiquitous Information System lab.
 # ユビキタス情報システム研究室
 
+([chenlab.work](http://chenlab.work))
+
 # Research
 何時でも何処でも誰もが容易に利用できるユビキタス情報システム・サービスを創ることを目標としています。
 
